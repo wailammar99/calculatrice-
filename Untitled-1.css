@@ -1,0 +1,53 @@
+button 
+{
+    color: blueviolet ;
+    border: solid;
+    border-radius: 20%;
+    height: 35px;
+    width: 50px;
+    font-size: large;
+    align-items: center;
+    display: inline-block;
+}
+button:hover {
+    background-color:black;
+    color: #fff;
+}
+table
+{
+   
+    justify-content: center;
+    align-items: center;
+    display: inline;
+    margin-top: 50px ;
+    margin-left: 888px;
+    margin-bottom: 888px;
+    display: inline;
+    background-color: black;
+    
+}
+div
+{
+  
+    height: 15%;
+    left:10px;
+    right: 15%;
+    left: 15;
+    display: flex;
+    justify-items: center;
+    
+    
+}
+.e
+{
+    padding: 20px 20px;
+    
+    justify-content: center;
+    display: table-caption;
+    margin: 20px 200px;
+}
+.c
+{
+  background-color: red; 
+  width: 80px; 
+}
